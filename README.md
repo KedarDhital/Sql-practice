@@ -1,2 +1,2 @@
 # Sql-practice
-![](images/sqlexercise.pdf)
+![](images/githubimage.png)
