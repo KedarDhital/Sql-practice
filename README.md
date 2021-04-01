@@ -1,2 +1,2 @@
-# Sql-practice
+# SQL practice
 ![](images/githubimage.png)
