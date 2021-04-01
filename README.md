@@ -1,3 +1,3 @@
 # SQL practice
-![](githubimage.png)
+![](images/githubimage.png)
 ![](images/gi.png)
